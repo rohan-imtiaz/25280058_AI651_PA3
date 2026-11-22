@@ -74,4 +74,4 @@ Put ca_meta.csv, ca_rn_adj.npy and ca_his_raw_2020.h5 and ca_his_raw_2021.h5 fro
 - Normalisation statistics come from 2020 only. Windows never cross a split boundary.
 - The road adjacency is not symmetric, so the fixed graph uses the row normalisation D^-1 (A + I). The hybrid graph also uses the row form.
 - Timings include the validation pass after every epoch and come from a single seed.
-- Outputs are written to outputs/ (figures, results, cache). Do not commit outputs/cache or data_raw/.
+- Outputs are written to outputs/ (figures, results, cache).

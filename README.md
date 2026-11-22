@@ -71,7 +71,7 @@ Put ca_meta.csv, ca_rn_adj.npy and ca_his_raw_2020.h5 and ca_his_raw_2021.h5 fro
 ## Notes
 - San Diego sensors are selected as District 11 in ca_meta.csv. The script prints the count and warns if it is not 716.
 - Flow is a count, so three 5 minute steps are summed to one 15 minute step. Missing values are forward filled, and leading gaps use the 2020 mean of the sensor.
-- Normalisation statistics come from 2020 only. Windows never cross a split boundary.
-- The road adjacency is not symmetric, so the fixed graph uses the row normalisation D^-1 (A + I). The hybrid graph also uses the row form.
+- Normalization statistics come from 2020 only. Windows never cross a split boundary.
+- The road adjacency is not symmetric, so the fixed graph uses the row normalization D^-1 (A + I). The hybrid graph also uses the row form.
 - Timings include the validation pass after every epoch and come from a single seed.
 - Outputs are written to outputs/ (figures, results, cache).

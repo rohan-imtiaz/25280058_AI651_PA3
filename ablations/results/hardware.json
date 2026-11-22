@@ -1,0 +1,5 @@
+{
+  "cpu_count": 4,
+  "torch_version": "2.11.0+cu130",
+  "gpu": "Tesla T4"
+}

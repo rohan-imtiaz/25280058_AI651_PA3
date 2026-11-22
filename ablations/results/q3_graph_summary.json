@@ -1,0 +1,14 @@
+{
+  "number_of_nodes": 716,
+  "nonzero_entries_total": 18035,
+  "nonzero_diagonal_entries": 716,
+  "nonzero_edges_off_diagonal": 17319,
+  "symmetric": false,
+  "minimum_weight": 0.010001835317713963,
+  "maximum_weight": 1.0,
+  "degree_min": 0,
+  "degree_mean": 24.18854748603352,
+  "degree_median": 20.0,
+  "degree_max": 70,
+  "isolated_nodes": 8
+}

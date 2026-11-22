@@ -1,0 +1,17 @@
+{
+  "road_density": 0.033830136344102826,
+  "all_learned_edge_count": 14305,
+  "all_learned_in_road_graph": 0.04264243271583362,
+  "all_learned_within_two_hops": 0.10730513806361412,
+  "all_learned_mean_distance_km": 27.78430341650657,
+  "all_learned_median_distance_km": 23.19434237350725,
+  "all_learned_reverse_edge_present": 0.02894092974484446,
+  "strongest_learned_edge_count": 3580,
+  "strongest_learned_in_road_graph": 0.04692737430167598,
+  "strongest_learned_within_two_hops": 0.11201117318435755,
+  "strongest_learned_mean_distance_km": 26.98023501946035,
+  "strongest_learned_median_distance_km": 22.22645486943773,
+  "strongest_learned_reverse_edge_present": 0.0111731843575419,
+  "road_mean_distance_km": 2.279598700268744,
+  "all_pairs_mean_distance_km": 27.091647068130943
+}

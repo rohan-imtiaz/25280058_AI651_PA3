@@ -1,0 +1,5 @@
+Model,Adjacency,Val MAE,Val RMSE,Test MAE,Test RMSE,Training time (s),Epochs run
+Temporal-only,None,53.302,88.276,61.375,99.44,571.3,30
+STGNN Fixed,Fixed,136.742,224.243,153.65,244.549,604.7,30
+STGNN Adaptive,Adaptive,72.618,127.59,89.963,146.393,607.7,30
+STGNN Hybrid,Hybrid,69.568,122.928,84.545,137.376,620.6,30
